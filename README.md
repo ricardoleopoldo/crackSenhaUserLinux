@@ -1,5 +1,5 @@
-# crackSenhaUserLinux
-Script para identificar a senha do usuário Linux
+# Identificando senha de usuário Linux
+Script para identificar a senha do usuário linux, por analise de hash
 
 O script tem por finalidade identificar a senha do usuário Linux, por meio, do hash e salt obtido do arquivo shadow. 
 Executando brute force local por meio de wordlist.
